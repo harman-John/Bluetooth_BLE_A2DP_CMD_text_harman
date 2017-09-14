@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Test</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="jbl_device_list">JBL device list:</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="receive_cmd">Receive Command</string>
+
+    <string name="sure">sure</string>
+
+</resources>
