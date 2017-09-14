@@ -53,7 +53,7 @@ public class A2DPCmdActivity extends AppCompatActivity {
     }
 
     private void A2DPOpen(){
-        Log.i(TAG,"A2DPOpen ss s  ss");
+        Log.i(TAG,"A2DPOpen");
         mBluetoothAdapter = BluetoothAdapter.getDefaultAdapter();
         mBluetoothAdapter.getProfileProxy(this, mProfileListener, BluetoothProfile.A2DP);
     }
